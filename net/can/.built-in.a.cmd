@@ -1,0 +1,1 @@
+cmd_net/can/built-in.a := rm -f net/can/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD net/can/built-in.a net/can/af_can.o net/can/proc.o net/can/raw.o net/can/bcm.o net/can/gw.o

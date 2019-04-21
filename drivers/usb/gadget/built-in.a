@@ -1,0 +1,10 @@
+!<thin>
+//                                              64        `
+udc/core.o/
+udc/trace.o/
+udc/fsl_udc_core.o/
+udc/fsl_mxc_udc.o/
+/0              0           0     0     644     48380     `
+/12             0           0     0     644     23424     `
+/25             0           0     0     644     24912     `
+/45             0           0     0     644     3224      `

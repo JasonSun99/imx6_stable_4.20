@@ -1,0 +1,29 @@
+!<thin>
+//                                              226       `
+pinctrl-imx.o/
+pinctrl-imx35.o/
+pinctrl-imx50.o/
+pinctrl-imx51.o/
+pinctrl-imx53.o/
+pinctrl-imx6q.o/
+pinctrl-imx6dl.o/
+pinctrl-imx6sl.o/
+pinctrl-imx6sll.o/
+pinctrl-imx6sx.o/
+pinctrl-imx6ul.o/
+pinctrl-imx7d.o/
+pinctrl-vf610.o/
+
+/0              0           0     0     644     12668     `
+/15            /0           0     0     644     21584     `
+/32            /0           0     0     644     10072     `
+/49            /0           0     0     644     17776     `
+/66            /0           0     0     644     11484     `
+/83            /0           0     0     644     11664     `
+/100            0           0     0     644     11816     `
+/118            0           0     0     644     9884      `
+/136            0           0     0     644     9600      `
+/155            0           0     0     644     10276     `
+/173            0           0     0     644     9480      `
+/191           /0           0     0     644     10188     `
+/208           /0           0     0     644     8104      `

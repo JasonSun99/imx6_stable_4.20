@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/built-in.a := rm -f drivers/iio/imu/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD drivers/iio/imu/built-in.a drivers/iio/imu/bmi160/built-in.a drivers/iio/imu/inv_mpu6050/built-in.a drivers/iio/imu/st_lsm6dsx/built-in.a

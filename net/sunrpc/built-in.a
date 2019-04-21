@@ -1,0 +1,62 @@
+!<thin>
+//                                              418       `
+clnt.o/
+xprt.o/
+socklib.o/
+xprtsock.o/
+sched.o/
+auth.o/
+auth_null.o/
+auth_unix.o/
+auth_generic.o/
+svc.o/
+svcsock.o/
+svcauth.o/
+svcauth_unix.o/
+addr.o/
+rpcb_clnt.o/
+timer.o/
+xdr.o/
+sunrpc_syms.o/
+cache.o/
+rpc_pipe.o/
+svc_xprt.o/
+xprtmultipath.o/
+stats.o/
+sysctl.o/
+auth_gss/auth_gss.o/
+auth_gss/gss_generic_token.o/
+auth_gss/gss_mech_switch.o/
+auth_gss/svcauth_gss.o/
+auth_gss/gss_rpc_upcall.o/
+auth_gss/gss_rpc_xdr.o/
+/0              0           0     0     644     55721     `
+/8              0           0     0     644     35060     `
+/16             0           0     0     644     3382      `
+/27             0           0     0     644     37424     `
+/39             0           0     0     644     97130     `
+/48             0           0     0     644     22358     `
+/56             0           0     0     644     2972      `
+/69             0           0     0     644     4772      `
+/82             0           0     0     644     7022      `
+/98             0           0     0     644     24886     `
+/105            0           0     0     644     18583     `
+/116            0           0     0     644     8415      `
+/127            0           0     0     644     19010     `
+/143            0           0     0     644     5377      `
+/151            0           0     0     644     13112     `
+/164            0           0     0     644     2904      `
+/173            0           0     0     644     32318     `
+/180            0           0     0     644     6950      `
+/195            0           0     0     644     37594     `
+/204            0           0     0     644     35095     `
+/216            0           0     0     644     31519     `
+/228           /0           0     0     644     8776      `
+/245            0           0     0     644     15255     `
+/254            0           0     0     644     2777      `
+/264            0           0     0     644     29316     `
+/285            0           0     0     644     3594      `
+/315            0           0     0     644     10574     `
+/343            0           0     0     644     28431     `
+/367            0           0     0     644     7240      `
+/394            0           0     0     644     6676      `

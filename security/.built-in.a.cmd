@@ -1,0 +1,1 @@
+cmd_security/built-in.a := rm -f security/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD security/built-in.a security/keys/built-in.a security/commoncap.o security/min_addr.o security/security.o security/inode.o security/integrity/built-in.a

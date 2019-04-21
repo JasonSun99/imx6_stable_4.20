@@ -1,0 +1,1 @@
+cmd_lib/xz/built-in.a := rm -f lib/xz/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD lib/xz/built-in.a lib/xz/xz_dec_syms.o lib/xz/xz_dec_stream.o lib/xz/xz_dec_lzma2.o lib/xz/xz_dec_bcj.o

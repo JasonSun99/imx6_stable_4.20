@@ -1,0 +1,40 @@
+!<thin>
+//                                              434       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+devicetree.o/
+pinconf-generic.o/
+freescale/pinctrl-imx.o/
+freescale/pinctrl-imx35.o/
+freescale/pinctrl-imx50.o/
+freescale/pinctrl-imx51.o/
+freescale/pinctrl-imx53.o/
+freescale/pinctrl-imx6q.o/
+freescale/pinctrl-imx6dl.o/
+freescale/pinctrl-imx6sl.o/
+freescale/pinctrl-imx6sll.o/
+freescale/pinctrl-imx6sx.o/
+freescale/pinctrl-imx6ul.o/
+freescale/pinctrl-imx7d.o/
+freescale/pinctrl-vf610.o/
+/0              0           0     0     644     50570     `
+/8             /0           0     0     644     5501      `
+/25             0           0     0     644     15265     `
+/35             0           0     0     644     10696     `
+/46             0           0     0     644     6324      `
+/60             0           0     0     644     9938      `
+/79             0           0     0     644     12668     `
+/104           /0           0     0     644     21584     `
+/131           /0           0     0     644     10072     `
+/158           /0           0     0     644     17776     `
+/185           /0           0     0     644     11484     `
+/212           /0           0     0     644     11664     `
+/239            0           0     0     644     11816     `
+/267            0           0     0     644     9884      `
+/295            0           0     0     644     9600      `
+/324            0           0     0     644     10276     `
+/352            0           0     0     644     9480      `
+/380           /0           0     0     644     10188     `
+/407           /0           0     0     644     8104      `

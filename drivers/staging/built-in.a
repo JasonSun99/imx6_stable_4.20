@@ -1,0 +1,26 @@
+!<thin>
+//                                              338       `
+media/imx/imx-media-dev.o/
+media/imx/imx-media-internal-sd.o/
+media/imx/imx-media-of.o/
+media/imx/imx-media-utils.o/
+media/imx/imx-media-fim.o/
+media/imx/imx-media-capture.o/
+media/imx/imx-media-vdic.o/
+media/imx/imx-ic-common.o/
+media/imx/imx-ic-prp.o/
+media/imx/imx-ic-prpencvf.o/
+media/imx/imx-media-csi.o/
+media/imx/imx6-mipi-csi2.o/
+/0             /0           0     0     644     10816     `
+/27             0           0     0     644     8208      `
+/62             0           0     0     644     3740      `
+/88             0           0     0     644     21661     `
+/117           /0           0     0     644     9256      `
+/144            0           0     0     644     17290     `
+/175            0           0     0     644     12464     `
+/203           /0           0     0     644     3964      `
+/230            0           0     0     644     6300      `
+/254            0           0     0     644     15856     `
+/283           /0           0     0     644     24668     `
+/310            0           0     0     644     11056     `

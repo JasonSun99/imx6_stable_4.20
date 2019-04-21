@@ -1,0 +1,1 @@
+cmd_kernel/cgroup/built-in.a := rm -f kernel/cgroup/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD kernel/cgroup/built-in.a kernel/cgroup/cgroup.o kernel/cgroup/rstat.o kernel/cgroup/namespace.o kernel/cgroup/cgroup-v1.o

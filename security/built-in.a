@@ -1,0 +1,45 @@
+!<thin>
+//                                              380       `
+keys/gc.o/
+keys/key.o/
+keys/keyring.o/
+keys/keyctl.o/
+keys/permission.o/
+keys/process_keys.o/
+keys/request_key.o/
+keys/request_key_auth.o/
+keys/user_defined.o/
+keys/proc.o/
+keys/sysctl.o/
+keys/persistent.o/
+keys/keyctl_pkey.o/
+keys/big_key.o/
+keys/encrypted-keys/encrypted.o/
+keys/encrypted-keys/ecryptfs_format.o/
+commoncap.o/
+min_addr.o/
+security.o/
+inode.o/
+integrity/iint.o/
+
+/0              0           0     0     644     5644      `
+/11             0           0     0     644     18697     `
+/23             0           0     0     644     17407     `
+/39             0           0     0     644     16364     `
+/54             0           0     0     644     2652      `
+/73             0           0     0     644     10448     `
+/94             0           0     0     644     11699     `
+/114            0           0     0     644     4544      `
+/139            0           0     0     644     8209      `
+/160            0           0     0     644     7088      `
+/173            0           0     0     644     2012      `
+/188            0           0     0     644     2956      `
+/207            0           0     0     644     4244      `
+/227            0           0     0     644     7232      `
+/243            0           0     0     644     15953     `
+/276            0           0     0     644     3166      `
+/315            0           0     0     644     15824     `
+/328            0           0     0     644     2168      `
+/340            0           0     0     644     71651     `
+/352            0           0     0     644     8437      `
+/361            0           0     0     644     4568      `

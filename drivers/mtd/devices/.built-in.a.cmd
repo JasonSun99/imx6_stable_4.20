@@ -1,0 +1,1 @@
+cmd_drivers/mtd/devices/built-in.a := rm -f drivers/mtd/devices/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD drivers/mtd/devices/built-in.a drivers/mtd/devices/mtd_dataflash.o drivers/mtd/devices/m25p80.o drivers/mtd/devices/sst25l.o

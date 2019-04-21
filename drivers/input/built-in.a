@@ -1,0 +1,55 @@
+!<thin>
+//                                              548       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+input-polldev.o/
+matrix-keymap.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/imx_keypad.o/
+keyboard/snvs_pwrkey.o/
+touchscreen/of_touchscreen.o/
+touchscreen/ads7846.o/
+touchscreen/edt-ft5x06.o/
+touchscreen/egalax_ts.o/
+touchscreen/imx6ul_tsc.o/
+touchscreen/max11801_ts.o/
+touchscreen/mc13783_ts.o/
+touchscreen/stmpe-ts.o/
+touchscreen/tsc200x-core.o/
+touchscreen/tsc2004.o/
+touchscreen/tsc2007_core.o/
+touchscreen/sx8654.o/
+touchscreen/colibri-vf50-ts.o/
+misc/mma8450.o/
+
+/0              0           0     0     644     50617     `
+/9              0           0     0     644     3780      `
+/25             0           0     0     644     9849      `
+/37             0           0     0     644     7877      `
+/48            /0           0     0     644     9694      `
+/65            /0           0     0     644     4527      `
+/82             0           0     0     644     5508      `
+/96             0           0     0     644     20676     `
+/105            0           0     0     644     22688     `
+/123            0           0     0     644     14988     `
+/145            0           0     0     644     10072     `
+/168            0           0     0     644     6708      `
+/192            0           0     0     644     5114      `
+/222            0           0     0     644     19416     `
+/245            0           0     0     644     18260     `
+/271            0           0     0     644     7348      `
+/296            0           0     0     644     9736      `
+/322            0           0     0     644     4972      `
+/349            0           0     0     644     7332      `
+/375            0           0     0     644     7172      `
+/399            0           0     0     644     12222     `
+/427            0           0     0     644     4328      `
+/450            0           0     0     644     9936      `
+/478            0           0     0     644     6856      `
+/500            0           0     0     644     8196      `
+/531            0           0     0     644     5228      `

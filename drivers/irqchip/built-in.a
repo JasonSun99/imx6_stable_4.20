@@ -1,0 +1,12 @@
+!<thin>
+//                                              78        `
+irqchip.o/
+irq-gic.o/
+irq-gic-common.o/
+irq-vf610-mscm-ir.o/
+irq-imx-gpcv2.o/
+/0              0           0     0     644     1700      `
+/11             0           0     0     644     20096     `
+/22             0           0     0     644     2956      `
+/40             0           0     0     644     5764      `
+/61            /0           0     0     644     5832      `

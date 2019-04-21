@@ -1,0 +1,18 @@
+!<thin>
+//                                              110       `
+vxfs_bmap.o/
+vxfs_fshead.o/
+vxfs_immed.o/
+vxfs_inode.o/
+vxfs_lookup.o/
+vxfs_olt.o/
+vxfs_subr.o/
+vxfs_super.o/
+/0              0           0     0     644     3828      `
+/13             0           0     0     644     2816      `
+/28             0           0     0     644     1744      `
+/42             0           0     0     644     4756      `
+/56             0           0     0     644     3916      `
+/71             0           0     0     644     2068      `
+/83             0           0     0     644     2540      `
+/96             0           0     0     644     6768      `

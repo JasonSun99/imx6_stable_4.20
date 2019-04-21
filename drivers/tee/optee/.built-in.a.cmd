@@ -1,0 +1,1 @@
+cmd_drivers/tee/optee/built-in.a := rm -f drivers/tee/optee/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD drivers/tee/optee/built-in.a drivers/tee/optee/core.o drivers/tee/optee/call.o drivers/tee/optee/rpc.o drivers/tee/optee/supp.o drivers/tee/optee/shm_pool.o

@@ -1,0 +1,92 @@
+!<thin>
+//                                              802       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-generic-dmaengine-pcm.o/
+soc-ac97.o/
+codecs/ac97.o/
+codecs/cs42xx8.o/
+codecs/cs42xx8-i2c.o/
+codecs/es8328.o/
+codecs/es8328-i2c.o/
+codecs/es8328-spi.o/
+codecs/mc13783.o/
+codecs/sgtl5000.o/
+codecs/tlv320aic23.o/
+codecs/tlv320aic23-i2c.o/
+codecs/tlv320aic3x.o/
+codecs/wm8960.o/
+codecs/wm8962.o/
+codecs/wm9712.o/
+generic/simple-card-utils.o/
+generic/simple-card.o/
+fsl/fsl-asoc-card.o/
+fsl/fsl_asrc.o/
+fsl/fsl_asrc_dma.o/
+fsl/fsl_sai.o/
+fsl/fsl_ssi.o/
+fsl/fsl_ssi_dbg.o/
+fsl/fsl_spdif.o/
+fsl/fsl_esai.o/
+fsl/fsl_utils.o/
+fsl/imx-ssi.o/
+fsl/imx-audmux.o/
+fsl/imx-pcm-fiq.o/
+fsl/imx-pcm-dma.o/
+fsl/eukrea-tlv320.o/
+fsl/phycore-ac97.o/
+fsl/imx-es8328.o/
+fsl/imx-sgtl5000.o/
+fsl/imx-spdif.o/
+fsl/imx-mc13783.o/
+/0              0           0     0     644     96861     `
+/12             0           0     0     644     68956     `
+/24             0           0     0     644     14429     `
+/36             0           0     0     644     14796     `
+/49             0           0     0     644     51955     `
+/60             0           0     0     644     6427      `
+/70             0           0     0     644     4216      `
+/84             0           0     0     644     18540     `
+/95             0           0     0     644     9016      `
+/124            0           0     0     644     11207     `
+/136            0           0     0     644     5056      `
+/151            0           0     0     644     22005     `
+/169            0           0     0     644     3772      `
+/191            0           0     0     644     25256     `
+/208            0           0     0     644     3984      `
+/229            0           0     0     644     3652      `
+/250            0           0     0     644     25588     `
+/268            0           0     0     644     26364     `
+/287            0           0     0     644     13840     `
+/309            0           0     0     644     3872      `
+/335            0           0     0     644     62744     `
+/357            0           0     0     644     38104     `
+/374            0           0     0     644     81395     `
+/391            0           0     0     644     38204     `
+/408            0           0     0     644     18967     `
+/437            0           0     0     644     9252      `
+/460           /0           0     0     644     13312     `
+/481            0           0     0     644     17688     `
+/497            0           0     0     644     7292      `
+/517            0           0     0     644     16004     `
+/532            0           0     0     644     19676     `
+/547            0           0     0     644     3740      `
+/566            0           0     0     644     23424     `
+/583            0           0     0     644     16820     `
+/599            0           0     0     644     2439      `
+/616            0           0     0     644     9816      `
+/631            0           0     0     644     10355     `
+/649            0           0     0     644     8207      `
+/668            0           0     0     644     2392      `
+/687           /0           0     0     644     6888      `
+/708            0           0     0     644     4188      `
+/728            0           0     0     644     7140      `
+/746            0           0     0     644     6908      `
+/766            0           0     0     644     4380      `
+/783            0           0     0     644     5956      `

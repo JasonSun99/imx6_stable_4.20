@@ -1,0 +1,1 @@
+cmd_drivers/misc/eeprom/built-in.a := rm -f drivers/misc/eeprom/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD drivers/misc/eeprom/built-in.a drivers/misc/eeprom/at24.o drivers/misc/eeprom/at25.o

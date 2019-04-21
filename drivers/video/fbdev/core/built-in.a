@@ -1,0 +1,40 @@
+!<thin>
+//                                              232       `
+fb_cmdline.o/
+fb_notify.o/
+fbmem.o/
+fbmon.o/
+fbcmap.o/
+fbsysfs.o/
+modedb.o/
+fbcvt.o/
+fb_defio.o/
+fbcon.o/
+bitblit.o/
+softcursor.o/
+cfbfillrect.o/
+cfbcopyarea.o/
+cfbimgblt.o/
+sysfillrect.o/
+syscopyarea.o/
+sysimgblt.o/
+fb_sys_fops.o/
+/0              0           0     0     644     4054      `
+/14             0           0     0     644     3538      `
+/27             0           0     0     644     30717     `
+/36             0           0     0     644     20212     `
+/45             0           0     0     644     8888      `
+/55             0           0     0     644     8117      `
+/66             0           0     0     644     25192     `
+/76             0           0     0     644     4272      `
+/85             0           0     0     644     7726      `
+/97             0           0     0     644     40256     `
+/106            0           0     0     644     5865      `
+/117            0           0     0     644     2355      `
+/131            0           0     0     644     4926      `
+/146            0           0     0     644     3842      `
+/161            0           0     0     644     3524      `
+/174            0           0     0     644     5041      `
+/189            0           0     0     644     3918      `
+/204            0           0     0     644     3420      `
+/217            0           0     0     644     3153      `

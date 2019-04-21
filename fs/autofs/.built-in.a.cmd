@@ -1,0 +1,1 @@
+cmd_fs/autofs/built-in.a := rm -f fs/autofs/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD fs/autofs/built-in.a fs/autofs/init.o fs/autofs/inode.o fs/autofs/root.o fs/autofs/symlink.o fs/autofs/waitq.o fs/autofs/expire.o fs/autofs/dev-ioctl.o

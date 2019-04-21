@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/built-in.a := rm -f drivers/usb/gadget/built-in.a; /home/study/jaguar/SwapCode/release_jaguar_v1.1_2017-07-20_00/toolchains/gcc-linaro-arm-linux-gnueabihf-4.7-64bit/bin/arm-linux-gnueabihf-ar rcSTPD drivers/usb/gadget/built-in.a drivers/usb/gadget/udc/built-in.a drivers/usb/gadget/function/built-in.a drivers/usb/gadget/legacy/built-in.a

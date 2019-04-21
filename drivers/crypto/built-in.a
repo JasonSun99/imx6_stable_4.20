@@ -1,0 +1,27 @@
+!<thin>
+//                                              190       `
+caam/error.o/
+caam/ctrl.o/
+caam/jr.o/
+caam/key_gen.o/
+caam/caamalg.o/
+caam/caamalg_desc.o/
+caam/caamhash.o/
+caam/caamhash_desc.o/
+caam/caamrng.o/
+caam/caampkc.o/
+caam/pkc_desc.o/
+sahara.o/
+
+/0              0           0     0     644     12882     `
+/14             0           0     0     644     17163     `
+/27             0           0     0     644     13657     `
+/38             0           0     0     644     4561      `
+/54             0           0     0     644     62076     `
+/70             0           0     0     644     42843     `
+/91             0           0     0     644     42724     `
+/108           /0           0     0     644     3139      `
+/130            0           0     0     644     8336      `
+/146            0           0     0     644     21432     `
+/162            0           0     0     644     5056      `
+/179            0           0     0     644     20748     `

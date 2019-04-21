@@ -1,0 +1,9 @@
+!<thin>
+//                                              66        `
+video-mux.o/
+soc_camera/soc_camera.o/
+soc_camera/soc_mediabus.o/
+
+/0              0           0     0     644     8856      `
+/13             0           0     0     644     32844     `
+/38             0           0     0     644     8699      `

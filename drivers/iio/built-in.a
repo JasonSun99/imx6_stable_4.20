@@ -1,0 +1,29 @@
+!<thin>
+//                                              274       `
+industrialio-core.o/
+industrialio-event.o/
+inkern.o/
+industrialio-buffer.o/
+industrialio-trigger.o/
+accel/mma8452.o/
+adc/imx7d_adc.o/
+adc/vf610_adc.o/
+buffer/industrialio-triggered-buffer.o/
+buffer/kfifo_buf.o/
+light/isl29018.o/
+magnetometer/mag3110.o/
+pressure/mpl3115.o/
+
+/0              0           0     0     644     36201     `
+/21             0           0     0     644     8003      `
+/43             0           0     0     644     23810     `
+/53             0           0     0     644     19086     `
+/76             0           0     0     644     20991     `
+/100            0           0     0     644     22952     `
+/117            0           0     0     644     9716      `
+/134            0           0     0     644     14240     `
+/151            0           0     0     644     5304      `
+/191            0           0     0     644     6392      `
+/211            0           0     0     644     11980     `
+/229            0           0     0     644     9224      `
+/253            0           0     0     644     6832      `
